@@ -18,7 +18,7 @@ function App() {
       <h1 className='text-5xl'>Chasing The Clicks - Stavan Patel</h1>
       <h3 className='text-2xl'>Sr Associate Software Development Engineer</h3>
       <h2 className='text-2xl py-5'>Number of Clicks: {count}</h2>
-      <button className='border-2 border-black rounded h-10 w-max p-2 bg-gradient-to-tr from-orange-700 to-orange-500 text-black' onClick={handleClick}>Click Me</button>
+      <button className='border-2 border-black rounded h-10 w-max p-2 bg-gradient-to-tr from-green-600 to-green-500 text-black' onClick={handleClick}>Click Me</button>
       <h3 className='absolute bottom-1 left-auto'>&#169; SESL1 2023 - Stavan Patel</h3>
     </div>
   );
